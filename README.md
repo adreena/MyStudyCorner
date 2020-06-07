@@ -13,4 +13,5 @@
 
 
 # منابع
+<div dir="ltr">
 Reinforcement Learning An Introduction 2nd Edition; Rich Sutton, Andrew Barto
