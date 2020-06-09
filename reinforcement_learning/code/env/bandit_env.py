@@ -12,13 +12,13 @@ class BanditEnv(gym.Env):
         self.state_space = spaces.Discrete(1)
         self.action_space = spaces.Discrete(num_arms)
         self.reward_distribution = None
-        self.reset()
 
     def reset(self):
         self.reward_distribution = np.random.randn(self.num_arms)
+        self.best_action = np.argmax(self.reward_distribution)
 
     def step(self, action):
-        reward = self.reward_distribution[actions]
+        reward = self.reward_distribution[action] + np.random.randn()
         done = True
         info = None
 
