@@ -19,7 +19,4 @@ class BanditEnv(gym.Env):
 
     def step(self, action):
         reward = self.reward_distribution[action] + np.random.randn()
-        done = True
-        info = None
-
-        return 0, reward, done, info
+        return reward
