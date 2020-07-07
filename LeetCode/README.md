@@ -1,1 +1,7 @@
-[211. Add and Search Word - Data structure design](codes/21.py) 
+[211. Add and Search Word - Data structure design](codes/211.py) 
+[472. Concatenated Words](codes/472.py)
+[726. Number of Atoms](codes/726.py)
+[240. Search a 2D Matrix II](codes/240.py)
+[588. Design In-Memory File System](codes/588.py)
+[222. Count Complete Tree Nodes](codes/222.py)
+[270. Closest Binary Search Tree Value](codes/270.py)
