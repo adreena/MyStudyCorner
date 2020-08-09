@@ -34,7 +34,6 @@
 - [454. 4Sum II](codes/454.py)
 - [472. Concatenated Words](codes/472.py)
 - [528. Random Pick with Weight](codes/528.py)
-- [560. Subarray Sum Equals K](codes/560.py)
 - [588. Design In-Memory File System](codes/588.py)
 - [642. Design Search Autocomplete System](codes/642.py)
 - [718. Maximum Length of Repeated Subarray](codes/718.py)
