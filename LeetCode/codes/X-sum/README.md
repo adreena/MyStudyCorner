@@ -1,0 +1,1 @@
+- (1.Two Sum)[codes/X-sum/1.pt]

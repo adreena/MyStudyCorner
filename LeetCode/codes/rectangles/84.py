@@ -1,5 +1,5 @@
 
-# time: O(n2)
+# time: O(n)
 # space: O(n)
 
 def largestRectangleArea(self, heights: List[int]) -> int:

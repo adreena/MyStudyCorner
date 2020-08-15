@@ -1,6 +1,7 @@
 - [Rectangles](codes/rectangles/README.md)
 - [Subsequences](codes/subsequences/README.md)
-
+- [Sort](codes/sort/README.md)
+- [XSum](codes/X-sum/README.md)
 - [2. Add Two Numbers](codes/2.py)
 - [5. Longest Palindromic Substring](codes/5.py)
 - [42. Trapping Rain Water](codes/42.py)
