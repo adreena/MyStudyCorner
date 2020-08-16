@@ -1,1 +1,2 @@
-- (1.Two Sum)[codes/X-sum/1.pt]
+- [1.Two Sum](codes/X-sum/1.py)
+- [15. 3Sum](codes/X-sum/15.py)

@@ -1,1 +1,4 @@
+- [21. Merge Two Sorted Lists](codes/sort/21.py)
+- [23. Merge k Sorted Lists](codes/sort/23.py)
+- [56. Merge Intervals](codes/sort/56.py)
 - [937. Reorder Data in Log Files](codes/sort/937.py)

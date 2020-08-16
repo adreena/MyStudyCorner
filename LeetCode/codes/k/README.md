@@ -1,5 +1,5 @@
 - [395. Longest Substring with At Least K Repeating Characters](codes/k/395.py)
 - [560. Subarray Sum Equals K](codes/k/560.py)
 - [692. Top K Frequent Words](codes/k/692.py)
-- [](codes/k/973.py)
+- [973. K Closest Points to Origin](codes/k/973.py)
 - [974. Subarray Sums Divisible by K](codes/k/974.py)
