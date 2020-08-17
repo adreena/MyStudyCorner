@@ -7,5 +7,6 @@
 - [646. Maximum Length of Pair Chain](codes/subsequences/646.py)
 - [647. Palindromic Substrings](codes/subsequences/647.py)
 - [674. Longest Continuous Increasing Subsequence](codes/subsequences/674.py)
+- [763.Partition Labels](subsequences/763.py)
 - [1143. Longest Common Subsequence](codes/subsequences/1143.py)
 
