@@ -5,7 +5,7 @@
 - [Graph](codes/graph/README.md)
 - [Word](codes/word/README.md)
 - [BinaryTree](codes/BinaryTree/README.md)
-
+- [Calculator](codes/Calculator/README.md)
 - [2. Add Two Numbers](codes/2.py)
 - [5. Longest Palindromic Substring](codes/5.py)
 - [42. Trapping Rain Water](codes/42.py)
