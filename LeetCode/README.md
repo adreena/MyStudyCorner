@@ -6,6 +6,8 @@
 - [Word](codes/word/README.md)
 - [BinaryTree](codes/BinaryTree/README.md)
 - [Calculator](codes/Calculator/README.md)
+- [Random](codes/Random/README.md)
+- [Games](codes/Games/READNE.md)
 - [2. Add Two Numbers](codes/2.py)
 - [5. Longest Palindromic Substring](codes/5.py)
 - [17. Letter Combinations of a Phone Number](codes/17.py)
