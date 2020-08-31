@@ -57,6 +57,7 @@
 - [1031. Maximum Sum of Two Non-Overlapping Subarrays](codes/1031.py)
 - [1048. Longest String Chain](codes/1048.py)
 - [1110. Delete Nodes And Return Forest](codes/1110.py)
+- [1152. Analyze User Website Visit Pattern](codes/1152.py)
 - [1153. String Transforms Into Another String](codes/1153.py)
 - [1249. Minimum Remove to Make Valid Parentheses](codes/1249.py)
 - [1277. Count Square Submatrices with All Ones](codes/1277.py)
@@ -67,4 +68,4 @@
 - [1512. Number of Good Pairs](codes/1512)
 - [1513. Number of Substrings With Only 1s](codes/1513)
 - [1514. Path with Maximum Probability](codes/1514)
--
+

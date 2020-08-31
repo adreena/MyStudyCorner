@@ -1,4 +1,6 @@
 - [210. Course Schedule II](210.py)
+- [269. Alien Dictionary](269.py)
 - [694. Number of Distinct Islands](694.py)
+- [733. Flood Fill](733.py)
 - [994. Rotting Oranges](994.py)
 - [1192. Critical Connections in a Network](graphs/1192.py)
