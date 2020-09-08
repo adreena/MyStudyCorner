@@ -1,3 +1,7 @@
 - [103. Binary Tree Zigzag Level Order Traversal](103.py)
+- [106. Construct Binary Tree from Inorder and Postorder Traversal](106.py)
+- [109. Convert Sorted List to Binary Search Tree](109.py)
+- [138. Copy List with Random Pointer](138.py)
+- [236. Lowest Common Ancestor of a Binary Tree](236.py)
 - [297. Serialize and Deserialize Binary Tree](297.py)
 - [863. All Nodes Distance K in Binary Tree](863.py)

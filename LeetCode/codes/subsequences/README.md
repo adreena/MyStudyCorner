@@ -1,5 +1,6 @@
 - [5. Longest Palindromic Substring](codes/subsequences/5.py)
 - [53. Maximum Subarray](codes/subsequences/53.py)
+- [76. Minimum Window Substring](76.py)
 - [78. Subsets](codes/subsequences/78.py)
 - [300. Longest Increasing Subsequence](codes/subsequences/300.py)
 - [334. Increasing Triplet Subsequence](codes/subsequences/343.py)
@@ -7,6 +8,7 @@
 - [646. Maximum Length of Pair Chain](codes/subsequences/646.py)
 - [647. Palindromic Substrings](codes/subsequences/647.py)
 - [674. Longest Continuous Increasing Subsequence](codes/subsequences/674.py)
+- [727. Minimum Window Subsequence](727.py)
 - [763.Partition Labels](subsequences/763.py)
 - [1143. Longest Common Subsequence](codes/subsequences/1143.py)
 
