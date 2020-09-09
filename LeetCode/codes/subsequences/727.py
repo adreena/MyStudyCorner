@@ -1,5 +1,5 @@
 
-#time O(N)
+#time O(NT)
 # space O(1)
 
 class Solution:

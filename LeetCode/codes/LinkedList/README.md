@@ -1,2 +1,3 @@
 - [19. Remove Nth Node From End of List](19.py)
 - [21. Merge Two Sorted Lists](21.py)
+- [206. Reverse Linked List](206.py)

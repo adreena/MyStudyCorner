@@ -1,3 +1,4 @@
+- [207. Course Schedule](207.py)
 - [210. Course Schedule II](210.py)
 - [269. Alien Dictionary](269.py)
 - [694. Number of Distinct Islands](694.py)
