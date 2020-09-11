@@ -41,9 +41,11 @@
 - [270. Closest Binary Search Tree Value](codes/270.py)
 - [273.Integer to English Words](codes/273.py)
 - [295. Find Median from Data Stream](codes/295.py)
+- [297. Serialize and Deserialize Binary Tree](codes/297.py)
 - [315. Count of Smaller Numbers After Self](codes/315.py)
 - [328. Odd Even Linked List](codes/328.py)
 - [329. Longest Increasing Path in a Matrix](codes/329.py)
+- [356. Line Reflection](codes/356.py)
 - [359. Logger Rate Limiter](codes/359.py)
 - [376. Design Hit Counter](codes/362.py)
 - [394. Decode String](codes/394.py)
@@ -77,4 +79,3 @@
 - [1512. Number of Good Pairs](codes/1512)
 - [1513. Number of Substrings With Only 1s](codes/1513)
 - [1514. Path with Maximum Probability](codes/1514)
-

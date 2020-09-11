@@ -1,6 +1,3 @@
-# time: O(n)
-# space: O(n)
-
 class Solution:
     def numberToWords(self, num: int) -> str:
         words = {0:'', 1:'One', 2:'Two', 3:'Three', 4:'Four', 5:'Five', 6:'Six', 7:'Seven',\
@@ -9,41 +6,44 @@ class Solution:
                 19:'Nineteen', 20:'Twenty', 30:'Thirty', 40:'Forty', 50:'Fifty', 60:'Sixty',\
                 70:'Seventy', 80:'Eighty', 90:'Ninety', 100:'Hundred', 1000:'Thousand', \
                 1000000:'Million', 1000000000:'Billion'}
-        
-        def translate(val, power):
-            code = val*10**power 
-            if code == 0:
-                return []
-            if power == 2:
-                return [words[val], words[10**power ]]
-            return [words[code]]
-    
-        output = []
-        power = 0
-        nxt_num = 0
-        temp_output = []
-        section = 0
-        while num>0:
-            temp = num%10
-            if power == 1 and temp == 1:
-                code = translate(temp*10+nxt_num, 0)
-                temp_output = code 
-            else:
-                code = translate(temp, power)
-                temp_output = code + temp_output
-            nxt_num = temp
-            num//=10
-            power+=1
-            if power >2 or num == 0:                
-                if len(temp_output)>0:
-                    if section >0:
-                        output = temp_output + [words[10**section]] + output
-                    else:
-                        output = temp_output
-                section+=3
-                power = 0
-                temp_output = []
-        if len(output) == 0:
+
+
+        if num == 0:
             return 'Zero'
-        return ' '.join(output)
-        
+        unit = 0
+        output = ''
+        while num>0:
+            prev_digit = 0
+            temp = []
+            for i in range(3):
+                digit = num%10
+                if i == 2:
+                    to_add  = words[digit]+' '+ words[10**i]
+                    if digit == 0:
+                        to_add = ''
+                elif i == 1:
+                    if digit == 1:
+                        to_add = words[10+prev_digit]
+                        if temp:
+                            temp.pop()
+                    else:
+                        to_add = words[digit*10**i]
+                else:
+                    to_add = words[digit]
+                if to_add!='':
+                    temp.append(to_add)
+                num //=10
+                prev_digit = digit
+                if num == 0:
+                    break
+            temp =  ' '.join(temp[::-1])
+            if temp!='':
+                if unit>0 and temp!='':
+                    if output == '':
+                        output = temp + ' '+ words[1000**unit]
+                    else:
+                        output = temp + ' ' + words[1000**unit] + ' ' + output
+                else:
+                    output = temp
+            unit+=1
+        return output
