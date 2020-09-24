@@ -1,4 +1,5 @@
 # time O(N)
+# time O(N)
 # space O(1)
 
 class Solution:
@@ -29,4 +30,3 @@ class Solution:
             else:
                 return headA
         return None
-        
