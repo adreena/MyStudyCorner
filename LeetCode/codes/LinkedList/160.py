@@ -29,3 +29,4 @@ class Solution:
             else:
                 return headA
         return None
+        
