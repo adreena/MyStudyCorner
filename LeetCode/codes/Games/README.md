@@ -1,1 +1,3 @@
--[348. Design Tic-Tac-Toe](348.py)
+- [36. Valid Sudoku](36.py)
+- [348. Design Tic-Tac-Toe](348.py)
+- [529. Minesweeper](529.py)

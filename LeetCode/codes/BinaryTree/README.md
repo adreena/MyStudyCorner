@@ -1,5 +1,6 @@
 - [101. Symmetric Tree](101.py)
 - [103. Binary Tree Zigzag Level Order Traversal](103.py)
+- [104. Maximum Depth of Binary Tree](104.py)
 - [106. Construct Binary Tree from Inorder and Postorder Traversal](106.py)
 - [109. Convert Sorted List to Binary Search Tree](109.py)
 - [138. Copy List with Random Pointer](138.py)
