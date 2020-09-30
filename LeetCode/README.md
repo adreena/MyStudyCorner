@@ -73,6 +73,7 @@
 - [763. Partition Labels](codes/763.py)
 - [767. Reorganize String](codes/767.py)
 - [833. Find And Replace in String](codes/833.py)
+- [846. Hand of Straights](codes/846.py)
 - [946. Validate Stack Sequences](codes/946.py)
 - [974. Subarray Sums Divisible by K](codes/974.py)
 - [1031. Maximum Sum of Two Non-Overlapping Subarrays](codes/1031.py)
@@ -89,3 +90,4 @@
 - [1512. Number of Good Pairs](codes/1512)
 - [1513. Number of Substrings With Only 1s](codes/1513)
 - [1514. Path with Maximum Probability](codes/1514)
+- [1561. Maximum Number of Coins you can get](codes/1561.py)
