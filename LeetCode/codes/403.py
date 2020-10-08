@@ -1,3 +1,6 @@
+# time O(n3) ?
+# space O(n2)
+
 class Solution:
     def canCross(self, stones: List[int]) -> bool:
         self.visited = set()
