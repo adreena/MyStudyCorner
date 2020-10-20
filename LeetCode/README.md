@@ -96,6 +96,7 @@
 - [1296. Divide Array in Sets of K Consecutive Numbers](codes/1296.py)
 - [1365. How Many Numbers Are Smaller Than the Current Number](codes/1365.py)
 - [1376. Time Needed to Inform All Employees](codes/1376)
+- [1395. Count Number of Teams](codes/1395.py)
 - [1472. Design Browser History](codes/1472.py)
 - [1504. Count Submatrices With All Ones](codes/1504.py)
 - [1512. Number of Good Pairs](codes/1512)
