@@ -10,6 +10,7 @@
 - [LinkedList](codes/LinkedList/README.md)
 - [Sum](codes/Sum/README.md)
 - [2. Add Two Numbers](codes/2.py)
+- [4. Median of Two Sorted Arrays](codes/4.py)
 - [5. Longest Palindromic Substring](codes/5.py)
 - [10. Regular Expression Matching](codes/10.py)
 - [12. Integer to Roman](codes/12.py)
