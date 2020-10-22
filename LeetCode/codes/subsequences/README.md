@@ -3,6 +3,7 @@
 - [53. Maximum Subarray](codes/subsequences/53.py)
 - [76. Minimum Window Substring](76.py)
 - [78. Subsets](codes/subsequences/78.py)
+- [128. Longest Consecutive Sequence](128.py)
 - [159. Longest substring with at most two distint characters](159.py)
 - [300. Longest Increasing Subsequence](codes/subsequences/300.py)
 - [334. Increasing Triplet Subsequence](codes/subsequences/343.py)
