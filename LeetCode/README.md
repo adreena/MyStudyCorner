@@ -88,6 +88,7 @@
 - [846. Hand of Straights](codes/846.py)
 - [946. Validate Stack Sequences](codes/946.py)
 - [974. Subarray Sums Divisible by K](codes/974.py)
+- [986. Interval List Intersections](codes/986.py)
 - [1031. Maximum Sum of Two Non-Overlapping Subarrays](codes/1031.py)
 - [1048. Longest String Chain](codes/1048.py)
 - [1110. Delete Nodes And Return Forest](codes/1110.py)
