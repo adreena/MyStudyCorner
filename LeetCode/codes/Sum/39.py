@@ -1,5 +1,5 @@
-# time O(N*(target_sum/min_val)
-# space: O(N*(target/min))
+# time O(N^(target_sum/min_val)
+# space: O(target/m)
 
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
