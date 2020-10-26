@@ -7,6 +7,7 @@
 - [465. Optimal Account Balancing](465.py)
 - [694. Number of Distinct Islands](694.py)
 - [733. Flood Fill](733.py)
+- [752. Open the Lock](752.py)
 - [953. Verifying an Alien Dictionary](953.py)
 - [994. Rotting Oranges](994.py)
 - [1192. Critical Connections in a Network](graphs/1192.py)
