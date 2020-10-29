@@ -12,3 +12,4 @@
 - [655. Print Binary Tree](655.py)
 - [863. All Nodes Distance K in Binary Tree](863.py)
 - [894. All Possible Full Binary Trees](894.py)
+- [1130. Minimum Cost Tree From Leaf Values](1130.py)

@@ -110,4 +110,5 @@
 - [1512. Number of Good Pairs](codes/1512)
 - [1513. Number of Substrings With Only 1s](codes/1513)
 - [1514. Path with Maximum Probability](codes/1514)
+- [1531. String Compression II](codes/1531.py)
 - [1561. Maximum Number of Coins you can get](codes/1561.py)
