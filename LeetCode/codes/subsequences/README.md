@@ -7,6 +7,7 @@
 - [159. Longest substring with at most two distint characters](159.py)
 - [300. Longest Increasing Subsequence](codes/subsequences/300.py)
 - [334. Increasing Triplet Subsequence](codes/subsequences/343.py)
+- [392. Is Subsequence](392.py)
 - [594. Longest Harmonious Subsequence](codes/subsequences/594.py)
 - [646. Maximum Length of Pair Chain](codes/subsequences/646.py)
 - [647. Palindromic Substrings](codes/subsequences/647.py)

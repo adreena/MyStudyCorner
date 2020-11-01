@@ -6,4 +6,5 @@
 - [863. All Nodes Distance K in Binary Tree](863.py)
 - [973. K Closest Points to Origin](codes/k/973.py)
 - [974. Subarray Sums Divisible by K](codes/k/974.py)
+- [1283. Find the Smallest Divisor Given a Threshold](1283.py)
 - [1400. Construct K Palindrome Strings](1400.py)
