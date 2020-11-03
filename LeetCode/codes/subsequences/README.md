@@ -14,5 +14,6 @@
 - [674. Longest Continuous Increasing Subsequence](codes/subsequences/674.py)
 - [727. Minimum Window Subsequence](727.py)
 - [763.Partition Labels](subsequences/763.py)
+- [1027. Longest Arithmetic Subsequence](1027.py)
 - [1143. Longest Common Subsequence](codes/subsequences/1143.py)
 
