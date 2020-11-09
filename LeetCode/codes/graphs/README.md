@@ -3,6 +3,7 @@
 - [210. Course Schedule II](210.py)
 - [286. Walls and Gates](286.py)
 - [269. Alien Dictionary](269.py)
+- [305. Number of Islands II](305.py)
 - [332. Reconstruct Itinerary](323.py)
 - [465. Optimal Account Balancing](465.py)
 - [542. 01 Matrix](542.py)

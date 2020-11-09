@@ -85,6 +85,7 @@
 - [588. Design In-Memory File System](codes/588.py)
 - [622. Design a Circular Queue](codes/622.py)
 - [628. Maximum Product of Three Numbers](codes/628.py)
+- [640. Solve the Equation](codes/640.py)
 - [642. Design Search Autocomplete System](codes/642.py)
 - [718. Maximum Length of Repeated Subarray](codes/718.py)
 - [722. 722. Remove Comments](codes/722.py)
