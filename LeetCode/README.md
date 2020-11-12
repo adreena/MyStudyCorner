@@ -36,6 +36,7 @@
 - [125. Valid Plaindrome](codes/125.py)
 - [126. Word Ladder II](codes/126.py)
 - [127. Word Ladder](codes/127.py)
+- [131. Palindrome Partitioning](codes/131.py)
 - [138. Copy list with Random Pointer](codes/138.py)
 - [146. LRU Cache](codes/146.py)
 - [149. Max Points on a Line](codes/149.py)
