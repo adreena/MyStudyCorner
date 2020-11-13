@@ -1,3 +1,4 @@
+- [98. Validate Binary Search Tree](98.py)
 - [101. Symmetric Tree](101.py)
 - [103. Binary Tree Zigzag Level Order Traversal](103.py)
 - [104. Maximum Depth of Binary Tree](104.py)

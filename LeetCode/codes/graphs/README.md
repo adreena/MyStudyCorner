@@ -10,6 +10,7 @@
 - [542. 01 Matrix](542.py)
 - [547. Friends Circles](547.py)
 - [694. Number of Distinct Islands](694.py)
+- [695. Max Area of Island](695.py)
 - [733. Flood Fill](733.py)
 - [749. Contain Virus](749.py)
 - [752. Open the Lock](752.py)
