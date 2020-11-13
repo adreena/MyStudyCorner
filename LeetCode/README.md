@@ -64,7 +64,6 @@
 - [315. Count of Smaller Numbers After Self](codes/315.py)
 - [322. Coin Change](codes/322.py)
 - [328. Odd Even Linked List](codes/328.py)
-- [329. Longest Increasing Path in a Matrix](codes/329.py)
 - [341. Flatten Nested List Iterator](codes/341.py)
 - [344. Reverse String](codes/344.py)
 - [346. Moving Average from Data Stream](codes/346.py)

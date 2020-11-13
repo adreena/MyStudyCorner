@@ -1,4 +1,6 @@
 - [36. Valid Sudoku](36.py)
+- [37. soduko Solver](37.py)
+- [51. NQueens](51.py)
 - [289. Game of Life](289.py)
 - [348. Design Tic-Tac-Toe](348.py)
 - [353. Design Snake Game](353.py)
