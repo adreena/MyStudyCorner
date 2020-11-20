@@ -1,3 +1,4 @@
 - [198. House Robber](198.py)
 - [213. House Robber II](213.py)
+- [279. Perfect Squares](279.py)
 - [1262. Greatest Sum Divisible by Three](1262.py)

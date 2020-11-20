@@ -16,8 +16,8 @@ class Solution:
             top, d = q.pop(0)
             if top == endWord:
                 return d+1
-            for i in range(len(top)):
-                key = top[:i]+'*'+top[i+1:]
+            for i in range(len(top)): #O(M)
+                key = top[:i]+'*'+top[i+1:] # O(M)
                 for nxt in wordDict[key]:
                     if nxt not in visited:
                         visited.add(nxt)
