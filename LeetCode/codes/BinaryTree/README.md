@@ -6,6 +6,7 @@
 - [106. Construct Binary Tree from Inorder and Postorder Traversal](106.py)
 - [109. Convert Sorted List to Binary Search Tree](109.py)
 - [138. Copy List with Random Pointer](138.py)
+- [173. Binary Search Tree Iterator](173.py)
 - [199. Binary Tree Right Side View](199.py)
 - [230. Kth Smallest Element in a BST](230.py)
 - [236. Lowest Common Ancestor of a Binary Tree](236.py)

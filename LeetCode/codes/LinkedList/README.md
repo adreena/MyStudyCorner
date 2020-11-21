@@ -1,6 +1,8 @@
 - [19. Remove Nth Node From End of List](19.py)
 - [21. Merge Two Sorted Lists](21.py)
+- [86. Partition List](86.py)
 - [92. Reverse Linked List ||](92.py)
 - [142. Linked List Cycle II](142.py)
+- [143. Reorder List](143.py)
 - [160. Intersection of Two Linked Lists](160.py)
 - [206. Reverse Linked List](206.py)
