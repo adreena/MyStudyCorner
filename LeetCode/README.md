@@ -32,6 +32,7 @@
 - [56. Merge Intervals](codes/56.py)
 - [67. Add Binary](codes/67.py)
 - [68. Text Justification](codes/68.py)
+- [69. Sqrt(x)](codes/69.py)
 - [71. Simplify Path](codes/71.py)
 - [75. Sort colors](codes/75.py)
 - [93. Restore IP Address](codes/93.py)
