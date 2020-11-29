@@ -1,4 +1,4 @@
-# time O(NlogN)
+# time O(logN)
 # space O(N)
 class ExamRoom:
 
