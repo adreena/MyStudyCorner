@@ -2,19 +2,15 @@
 # space O(N2)
 class Solution:
     def longestArithSeqLength(self, A: List[int]) -> int:
-        counter = defaultdict(lambda:{})
-        ans = 0
+        dp = {i:{} for i in range(len(A))}
+        maxlen = 0
         for i in range(len(A)):
             for j in range(i):
                 diff = A[i]-A[j]
-                if diff not in counter[j]:
-                    counter[j][diff] = 1
-                    
-                if diff not in counter[i]:
-                    counter[i][diff]=0
-                
-                
-                counter[i][diff] = max(counter[i][diff], counter[j][diff]+1)
-                ans = max(ans, counter[i][diff])
-        return ans
-                
+                if diff in dp[j]:
+                    dp[i][diff]=dp[j][diff]+1
+                else:
+                    dp[i][diff]=1
+                maxlen = max(dp[i][diff], maxlen)
+        # print(dp)
+        return maxlen+1

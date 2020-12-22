@@ -13,6 +13,7 @@
 - [257. Binary Tree Paths](257.py)
 - [297. Serialize and Deserialize Binary Tree](297.py)
 - [450. Delete Node in a BST](450.py)
+- [572. Subtree of Another Tree](572.py)
 - [655. Print Binary Tree](655.py)
 - [863. All Nodes Distance K in Binary Tree](863.py)
 - [894. All Possible Full Binary Trees](894.py)

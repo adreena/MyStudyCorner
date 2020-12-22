@@ -19,4 +19,5 @@
 - [953. Verifying an Alien Dictionary](953.py)
 - [994. Rotting Oranges](994.py)
 - [1192. Critical Connections in a Network](graphs/1192.py)
+- [1335. Minimum Difficulty of a Job schedule](1335.py)
 - [1368. Minimum Cost to make at Least one valid path in a grid](1368.py)
