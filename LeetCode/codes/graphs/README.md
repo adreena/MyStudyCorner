@@ -4,6 +4,7 @@
 - [286. Walls and Gates](286.py)
 - [269. Alien Dictionary](269.py)
 - [305. Number of Islands II](305.py)
+= [323. Number of Connected Components in an Undirected Graph](323.py)
 - [329. Longest Increasing Path in a Matrix](329.py)
 - [332. Reconstruct Itinerary](323.py)
 - [465. Optimal Account Balancing](465.py)
