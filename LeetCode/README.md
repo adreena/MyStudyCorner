@@ -106,6 +106,7 @@
 - [722. 722. Remove Comments](codes/722.py)
 - [729. My Calendar I](codes/729.py)
 - [726. Number of Atoms](codes/726.py)
+- [735. Asteroid Collision](codes/735.py)
 - [763. Partition Labels](codes/763.py)
 - [767. Reorganize String](codes/767.py)
 - [833. Find And Replace in String](codes/833.py)
