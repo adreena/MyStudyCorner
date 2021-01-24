@@ -1,1 +1,4 @@
 - [380. Insert Delete GetRandom O(1)](380.py)
+- [384. Shuffle an Array](384.py)
+- [398. Random Pick Index](394.py)
+- [528. Random Pick with Weight](528.py)

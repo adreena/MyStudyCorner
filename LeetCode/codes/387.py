@@ -1,5 +1,5 @@
 # time O(n)
-# space O(n)
+# space O(1) only 26 charss
 from collections import Counter
 class Solution:
     def firstUniqChar(self, s: str) -> int:
