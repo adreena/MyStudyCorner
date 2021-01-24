@@ -1,6 +1,7 @@
 - [25. Reverse Nodes in k-Group](25.py)
 - [215. Kth Largest element in an array](215.py)
 - [347. Top K Frequent Elements](347.py)
+- [373. Find K pairs with Smallest Sum](373.py)
 - [395. Longest Substring with At Least K Repeating Characters](codes/k/395.py)
 - [523. Continuous Subarray Sum](523.py)
 - [560. Subarray Sum Equals K](codes/k/560.py)

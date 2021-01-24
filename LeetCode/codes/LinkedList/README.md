@@ -8,3 +8,4 @@
 - [160. Intersection of Two Linked Lists](160.py)
 - [206. Reverse Linked List](206.py)
 - [430. Flatten a multilevel Doubly linkedlist]((430.py))
+- [1019. Next Greater Node in LinkedList](1019.py)
