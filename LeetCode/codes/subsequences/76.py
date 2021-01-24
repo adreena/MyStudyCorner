@@ -16,8 +16,10 @@ class Solution:
                 char_count+=1
             if char_count == len(t):
                 while s[start] not in t_count or s_count[s[start]]>t_count[s[start]]:
-                    if  s_count[s[start]]>t_count[s[start]]:
-                        s_count[s[start]]-=1
+                    # if  s_count[s[start]]>t_count[s[start]]:
+                    s_count[s[start]]-=1
+                    if s_count[s[start]]<=0:
+                        del s_count[s[start]]
                     start+=1
                 if i-start+1<min_len:
                     min_len = i-start+1
